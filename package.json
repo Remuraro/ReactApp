@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
     "react-native-shake-event": "^4.0.1",
     "react-native-shake-event-ios": "^1.0.3"
   }
